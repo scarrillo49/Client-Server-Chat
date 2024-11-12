@@ -1,4 +1,4 @@
-# Client-Server Chat Application
+# Client-Server Chat Program
 
 This chat application allows multiple users to join a chatroom and broadcast messages with random nicknames. It consists of two Python scripts: `server.py` and `client.py`.
 
